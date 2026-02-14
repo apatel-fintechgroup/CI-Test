@@ -1,4 +1,4 @@
-# sparkjava-war-example
+# CI CD Example
 Build war with maven and sparkjava framework
 
 Steps:
