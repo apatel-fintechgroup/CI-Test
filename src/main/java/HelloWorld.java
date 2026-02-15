@@ -9,6 +9,6 @@ public class HelloWorld implements SparkApplication {
 
 	@Override
 	public void init() {
-		get("/CI-CD", (req, res) -> "CI CD Pipeline Working");
+		get("/CI-CD", (req, res) -> "CI CD Pipeline Working and Fetching Jenkins Pipeline from SCM");
 	}
 }
