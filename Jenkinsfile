@@ -1,6 +1,6 @@
 pipeline {
     agent {
-        label = 'Local_Agent'
+        label "Local_Agent"
     }
 
     
